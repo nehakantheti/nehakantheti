@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Neha
-- I’m a Pre final year CSE student at IIITDMK
-- Software Development, Cybersecurity and Web Dev are my interests, I’m looking to collaborate on projects in this area.
-- Fun fact: Anything I don't know is interesting!
-
-Feel free to connect to work together!
-Reach out to me @nehakantheti@gmail.com
+👋 Hi, I’m Neha!
+I’m a pre-final year CSE student at IIITDM Kancheepuram.
+My interests include software development, cybersecurity, and web development. I'm looking to collaborate on projects in these areas.
+Fun fact: Anything I don't know is interesting!
+Feel free to connect if you'd like to work together! You can reach me at nehakantheti@gmail.com.
